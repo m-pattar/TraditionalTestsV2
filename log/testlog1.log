@@ -1,0 +1,23 @@
+2020-07-02 17:10:16,954 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Started in FirefoxDriverdriver
+2020-07-02 17:10:16,961 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-02 17:10:16,968 [main] INFO com.hackathon.task.Tasks - Verify the search field element
+2020-07-02 17:10:18,696 [main] INFO com.hackathon.task.Tasks - Test Case cross_device_elements_test  Ended in FirefoxDriverdriver
+2020-07-02 17:10:18,696 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-02 17:10:18,701 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Started in FirefoxDriverdriver
+2020-07-02 17:10:18,701 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-02 17:10:18,704 [main] INFO com.hackathon.task.Tasks - Click on Filter icon for mobile view
+2020-07-02 17:10:19,105 [main] INFO com.hackathon.task.Tasks - Click on Black filter refinement
+2020-07-02 17:10:20,454 [main] INFO com.hackathon.task.Tasks - Collect the product count in filter section
+2020-07-02 17:10:20,744 [main] INFO com.hackathon.task.Tasks - Click on filter button
+2020-07-02 17:10:21,491 [main] INFO com.hackathon.task.Tasks - Collect the number of products in PLP
+2020-07-02 17:10:22,343 [main] INFO com.hackathon.task.Tasks - Test Case shopping_experience_test  Ended in FirefoxDriverdriver
+2020-07-02 17:10:22,421 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-02 17:10:22,424 [main] INFO com.hackathon.task.Tasks - Test Case product_details_test  Started in FirefoxDriverdriver
+2020-07-02 17:10:22,425 [main] INFO com.hackathon.task.Tasks - -------------------------------------------
+2020-07-02 17:10:22,429 [main] INFO com.hackathon.task.Tasks - Collect the product price in PLP
+2020-07-02 17:10:22,728 [main] INFO com.hackathon.task.Tasks - Click on first product in PLP
+2020-07-02 17:10:23,714 [main] INFO com.hackathon.task.Tasks - Verify the product image in PDP
+2020-07-02 17:10:23,997 [main] INFO com.hackathon.task.Tasks - Verify the product price in PDP
+2020-07-02 17:10:24,257 [main] INFO com.hackathon.task.Tasks - Verify the selected Size in PDP
+2020-07-02 17:10:24,575 [main] INFO com.hackathon.task.Tasks - Test Case product_details_test  Ended in FirefoxDriverdriver
+2020-07-02 17:10:24,576 [main] INFO com.hackathon.task.Tasks - -------------------------------------------

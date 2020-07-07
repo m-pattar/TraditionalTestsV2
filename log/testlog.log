@@ -1,0 +1,23 @@
+(BaseTest.java:230) - extReport - 2020-07-02 17:10:16,954 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Started in FirefoxDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-02 17:10:16,961 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:22) - cross_device_elements_test - 2020-07-02 17:10:16,968 - com.hackathon.task.Tasks -INFO - Verify the search field element
+(BaseTest.java:238) - endTest - 2020-07-02 17:10:18,696 - com.hackathon.task.Tasks -INFO - Test Case cross_device_elements_test  Ended in FirefoxDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-02 17:10:18,696 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-02 17:10:18,701 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Started in FirefoxDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-02 17:10:18,701 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:42) - shopping_experience_test - 2020-07-02 17:10:18,704 - com.hackathon.task.Tasks -INFO - Click on Filter icon for mobile view
+(Tasks.java:47) - shopping_experience_test - 2020-07-02 17:10:19,105 - com.hackathon.task.Tasks -INFO - Click on Black filter refinement
+(Tasks.java:50) - shopping_experience_test - 2020-07-02 17:10:20,454 - com.hackathon.task.Tasks -INFO - Collect the product count in filter section
+(Tasks.java:53) - shopping_experience_test - 2020-07-02 17:10:20,744 - com.hackathon.task.Tasks -INFO - Click on filter button
+(Tasks.java:57) - shopping_experience_test - 2020-07-02 17:10:21,491 - com.hackathon.task.Tasks -INFO - Collect the number of products in PLP
+(BaseTest.java:238) - endTest - 2020-07-02 17:10:22,343 - com.hackathon.task.Tasks -INFO - Test Case shopping_experience_test  Ended in FirefoxDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-02 17:10:22,421 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(BaseTest.java:230) - extReport - 2020-07-02 17:10:22,424 - com.hackathon.task.Tasks -INFO - Test Case product_details_test  Started in FirefoxDriverdriver
+(BaseTest.java:231) - extReport - 2020-07-02 17:10:22,425 - com.hackathon.task.Tasks -INFO - -------------------------------------------
+(Tasks.java:69) - product_details_test - 2020-07-02 17:10:22,429 - com.hackathon.task.Tasks -INFO - Collect the product price in PLP
+(Tasks.java:72) - product_details_test - 2020-07-02 17:10:22,728 - com.hackathon.task.Tasks -INFO - Click on first product in PLP
+(Tasks.java:75) - product_details_test - 2020-07-02 17:10:23,714 - com.hackathon.task.Tasks -INFO - Verify the product image in PDP
+(Tasks.java:78) - product_details_test - 2020-07-02 17:10:23,997 - com.hackathon.task.Tasks -INFO - Verify the product price in PDP
+(Tasks.java:82) - product_details_test - 2020-07-02 17:10:24,257 - com.hackathon.task.Tasks -INFO - Verify the selected Size in PDP
+(BaseTest.java:238) - endTest - 2020-07-02 17:10:24,575 - com.hackathon.task.Tasks -INFO - Test Case product_details_test  Ended in FirefoxDriverdriver
+(BaseTest.java:239) - endTest - 2020-07-02 17:10:24,576 - com.hackathon.task.Tasks -INFO - -------------------------------------------

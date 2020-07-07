@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+	  <groups>
+    <run>
+      <!-- <include name="reg"/> -->
+    </run>
+   </groups>
+	<listeners>
+	<listener class-name="com.hackathon.utilgeneric.Screenshot"/>
+	</listeners>
+
+	<parameter name="GridExecution" value="false"/>
+	 
+ <test name="Chrome_Test">
+  <parameter name="broName" value="chrome"/>
+  <parameter name="viewport" value="1200*700"/>
+    <parameter name="executingIn" value="Desktop"/>
+    <classes>
+     <class name="com.hackathon.task.Tasks"/> 
+    </classes> 
+  </test> 
+  
+<!--  <test name="Android_Phone">
+  <parameter name="broName" value="Phone"/>
+  <parameter name="viewport" value="500*700"/>
+  <parameter name="executingIn" value="mobile"/>
+    <classes>
+        <class name="com.hackathon.task.Tasks"/> 
+    </classes>
+  </test> -->
+  
+  
+  <!--   <test name="Chrome_Tab">
+  <parameter name="broName" value="Chrome Tab"/>
+  <parameter name="viewport" value="768*700"/>
+   <parameter name="executingIn" value="Tablet"/>
+    <classes>
+    <class name="com.hackathon.task.Tasks"/> 
+    </classes>
+  </test>  -->
+  
+<!--   <test name="FF_Test"> 
+  <parameter name="broName" value="firefox"/>
+  <parameter name="viewport" value="1200*700"/>
+  <parameter name="executingIn" value="Desktop"/>
+    <classes> 
+     <class name="com.hackathon.task.Tasks"/> 
+    </classes>
+  </test>  -->
+  
+  
+  
+<!--    <test name="FirefoxTablet">
+  <parameter name="broName" value="FirefoxTablet"/>
+  <parameter name="viewport" value="768*700"/>
+   <parameter name="executingIn" value="mobile"/>
+    <classes>
+    <class name="com.hackathon.task.Tasks"/>
+    </classes>
+  </test> -->
+  
+  
+<!--      <test name="Edge">
+  <parameter name="broName" value="Edge"/>
+  <parameter name="viewport" value="1200*700"/>
+   <parameter name="executingIn" value="Desktop"/>
+    <classes>
+    <class name="com.hackathon.task.Tasks"/>
+    </classes>
+  </test> -->
+  
+   <!--    <test name="EdgeTablet">
+  <parameter name="broName" value="EdgeTablet"/>
+  <parameter name="viewport" value="768*700"/>
+   <parameter name="executingIn" value="Tablet"/>
+    <classes>
+    <class name="com.hackathon.task.Tasks"/>
+    </classes>
+  </test> -->
+  
+  
+
+</suite>

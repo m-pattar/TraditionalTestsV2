@@ -1,0 +1,28 @@
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: a#A__btnsearchm__59, Browser: chrome, Viewport: 1200*700, Device: Desktop, Status: Pass
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: chrome, Viewport: 1200*700, Device: Desktop, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: chrome, Viewport: 1200*700, Device: Desktop, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: input#INPUTtext____42, Browser: Phone, Viewport: 500*700, Device: mobile, Status: Fail
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: Phone, Viewport: 500*700, Device: mobile, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: Phone, Viewport: 500*700, Device: mobile, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: a#A__btnsearchm__59, Browser: Chrome Tab, Viewport: 768*700, Device: Tablet, Status: Pass
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: Chrome Tab, Viewport: 768*700, Device: Tablet, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: Chrome Tab, Viewport: 768*700, Device: Tablet, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: a#A__btnsearchm__59, Browser: firefox, Viewport: 1200*700, Device: Desktop, Status: Pass
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: firefox, Viewport: 1200*700, Device: Desktop, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: firefox, Viewport: 1200*700, Device: Desktop, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: input#INPUTtext____42, Browser: FirefoxTablet, Viewport: 768*700, Device: mobile, Status: Fail
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: FirefoxTablet, Viewport: 768*700, Device: mobile, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: FirefoxTablet, Viewport: 768*700, Device: mobile, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: a#A__btnsearchm__59, Browser: Edge, Viewport: 1200*700, Device: Desktop, Status: Pass
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: Edge, Viewport: 1200*700, Device: Desktop, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: Edge, Viewport: 1200*700, Device: Desktop, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 1, Test Name: cross_device_elements_test, DOM Id:: a#A__btnsearchm__59, Browser: EdgeTablet, Viewport: 768*700, Device: Tablet, Status: Fail
+Task: 2, Test Name: shopping_experience_test, DOM Id:: div.grid_item, Browser: EdgeTablet, Viewport: 768*700, Device: Tablet, Status: Fail
+Task: 3, Test Name: product_details_test, DOM Id:: div.nice-select span.current, Browser: EdgeTablet, Viewport: 768*700, Device: Tablet, Status: Fail
+-------------------------------------------------------------------------------------------------------------------------------------------------
